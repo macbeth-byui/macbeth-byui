@@ -29,6 +29,7 @@ My current interests are learning machine learning and the Rust language.
 
 |Name                                                                         |Tags                               |Description                                                |Status|
 |-----------------------------------------------------------------------------|-----------------------------------|-----------------------------------------------------------|------|
+| [pytrace](https://github.com/macbeth-byui/pytrace)                          |Pytahon, JavaScript                | An online Python compiler that steps through the code     | 2026 |
 | [rust_ds](https://github.com/macbeth-byui/rust_ds)                          |Rust                               | Implement Queue, BST, and Heap in Rust                    | 2025 |
 | [ScanStore](https://github.com/macbeth-byui/ScanStore)                      |Kotlin, Android, MLKit             | Use MLKit to scan documents                               | 2025 |
 | [ds-polars-weather](https://github.com/macbeth-byui/ds-polars-weather)      |Python, Polars                     | Analyze weather data using Polars                         | 2025 |
