@@ -23,7 +23,7 @@ My current interests are learning machine learning and the Rust language.
 | CSE 110 - Introduction to Programming (WWB) |                                                                | [cse110-faculty-wwb](https://github.com/macbeth-byui/cse110-faculty-wwb)
 | CSE 111 - Programming with Functions        |                                                                | [cse111-faculty](https://github.com/macbeth-byui/cse111-faculty)
 | CSE 199 - Freshman Discovery Project        | [cse199-course](https://github.com/macbeth-byui/cse199-course) |   
-| CSE 210 - Programming with Classes (WWB)    |                                                                | [cse110-faculty-wwb](https://github.com/macbeth-byui/cse210-faculty-wwb)
+| CSE 210 - Programming with Classes (WWB)    |                                                                | [cse210-faculty-wwb](https://github.com/macbeth-byui/cse210-faculty-wwb)
 | CSE 212 - Programming with Data Structures  |                                                                |
 | CSE 280 - Discrete Mathematics              | [cse280-course](https://github.com/macbeth-byui/cse280-course) | [cse280-faculty](https://github.com/macbeth-byui/cse280-faculty)
 | CSE 310 - Applied Programming               | [cse310-course](https://github.com/macbeth-byui/cse310-course) |   
