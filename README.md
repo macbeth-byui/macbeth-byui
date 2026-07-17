@@ -32,19 +32,20 @@ My current interests are learning machine learning and the Rust language.
 
 ### Personal Projects
 
-|Name                                                                         |Tags                               |Description                                                |Status|
-|-----------------------------------------------------------------------------|-----------------------------------|-----------------------------------------------------------|------|
-| [forester](https://github.com/macbeth-byui/forester)                        |React, Rust, Wasm                  | Markdown Viewer/Editor Website with Rust processing       | 2026 |
-| [pytrace](https://github.com/macbeth-byui/pytrace)                          |Python, Flask, Docker              | Python Editor/Debugger Website                            | 2026 |
-| [rust_ds](https://github.com/macbeth-byui/rust_ds)                          |Rust                               | Implement Queue, BST, and Heap in Rust                    | 2025 |
-| [ScanStore](https://github.com/macbeth-byui/ScanStore)                      |Kotlin, Android, MLKit             | Use MLKit to scan documents                               | 2025 |
-| [elixir-mandelbrot](https://github.com/macbeth-byui/elixir-mandelbrot)      |Elixir, Vix                        | Draw mandelbrot using Elixir threads                      | 2025 |
-| [ocr-digits](https://github.com/macbeth-byui/ocr-digits)                    |Python, Scikit                     | Train a model to do OCR with digits                       | 2025 |
-| [ds-polars-weater](https://github.com/macbeth-byui/ds-polars-weather)       |Polar, Python, Rust, Quarto        | Demonstrate using Polar for data science anlysis          | 2025 |
-| [BookWorm](https://github.com/macbeth-byui/Bookworm)                        |Kotlin, Android, Camera, Streaming | Book Tracker and Study music with Camera                  | 2025 |
-| [becoming-rusty](https://github.com/macbeth-byui/becoming-rusty)            |Rust                               | Collection of Practice Problems in Rust                   | 2025 |
-| [gochat](https://github.com/macbeth-byui/gochat)                            |Go                                 | Terminal Chatting App using Go                            | 2025 |
-| [ideas-api](https://github.com/macbeth-byui/ideas-api)                      |Rust,  Actix-Web, MongoDB          | Create an API server using Rust connected to MongoDB      | 2025 |
-| [gospel_search](https://github.com/macbeth-byui/gospel_search)              |React, Rust, Wasm                  | Reimplement ScriptureSearchApp using React and Rust WASM  | 2025 |
-| [horizons](https://github.com/macbeth-byui/horizons)                        |Rust, Rocket, PostgreSQL           | Load Canvas data into local database for analysis in Rust | 2025 |
-| [ScriptureSearchApp](https://github.com/macbeth-byui/ScriptureSearchApp)    |Kotlin, Android                    | Android app to Search for scripture phrases               | 2023 |
+|Name                                                                         |Tags                               |Description                                                  |Status         |
+|-----------------------------------------------------------------------------|-----------------------------------|-------------------------------------------------------------|---------------|
+| [rusty-board](https://github.com/macbeth-byui/rusty-board)                  |Rust, ESP32S3, WASM32              | Platform for BYU-I Development Board with WASM32 App Support| 2026 - Active |
+| [forester](https://github.com/macbeth-byui/forester)                        |React, Rust, Wasm                  | Markdown Viewer/Editor Website with Rust processing         | 2026          |
+| [pytrace](https://github.com/macbeth-byui/pytrace)                          |Python, Flask, Docker              | Python Editor/Debugger Website                              | 2026          |
+| [rust_ds](https://github.com/macbeth-byui/rust_ds)                          |Rust                               | Implement Queue, BST, and Heap in Rust                      | 2025          |
+| [ScanStore](https://github.com/macbeth-byui/ScanStore)                      |Kotlin, Android, MLKit             | Use MLKit to scan documents                                 | 2025          |
+| [elixir-mandelbrot](https://github.com/macbeth-byui/elixir-mandelbrot)      |Elixir, Vix                        | Draw mandelbrot using Elixir threads                        | 2025          |
+| [ocr-digits](https://github.com/macbeth-byui/ocr-digits)                    |Python, Scikit                     | Train a model to do OCR with digits                         | 2025          |
+| [ds-polars-weater](https://github.com/macbeth-byui/ds-polars-weather)       |Polar, Python, Rust, Quarto        | Demonstrate using Polar for data science anlysis            | 2025          |
+| [BookWorm](https://github.com/macbeth-byui/Bookworm)                        |Kotlin, Android, Camera, Streaming | Book Tracker and Study music with Camera                    | 2025          |
+| [becoming-rusty](https://github.com/macbeth-byui/becoming-rusty)            |Rust                               | Collection of Practice Problems in Rust                     | 2025          |
+| [gochat](https://github.com/macbeth-byui/gochat)                            |Go                                 | Terminal Chatting App using Go                              | 2025          |
+| [ideas-api](https://github.com/macbeth-byui/ideas-api)                      |Rust,  Actix-Web, MongoDB          | Create an API server using Rust connected to MongoDB        | 2025          |
+| [gospel_search](https://github.com/macbeth-byui/gospel_search)              |React, Rust, Wasm                  | Reimplement ScriptureSearchApp using React and Rust WASM    | 2025          |
+| [horizons](https://github.com/macbeth-byui/horizons)                        |Rust, Rocket, PostgreSQL           | Load Canvas data into local database for analysis in Rust   | 2025          |
+| [ScriptureSearchApp](https://github.com/macbeth-byui/ScriptureSearchApp)    |Kotlin, Android                    | Android app to Search for scripture phrases                 | 2023          |
